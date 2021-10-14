@@ -1,24 +1,5 @@
-# simple-todo
+# Simle ToDo 
 
-## Project setup
-```
-npm install
-```
+This project serves the purposes of testing [Inkline](https://github.com/inkline/inkline) UI/UX Library .
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Dark Mode is implemented as well.

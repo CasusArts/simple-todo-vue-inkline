@@ -23,7 +23,6 @@ export default {
       text: String,
       isDone: Boolean,
     },
-    // text: String
   },
 
   methods: {
